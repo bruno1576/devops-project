@@ -1,0 +1,28 @@
+# Nome: Lucas Alves Siqueira
+
+Lista de modificações:
+
+**** Apache HTTP Server 2.2/2.4 *****
+
+*Mudanças:
+- Aprimoramento nos núcleos (Ex:Evento MPM)
+- Novos Módulos (Ex:mod_proxy_fcgi)
+- Melhorias de módulos (Ex:mod_ssl)
+- Aprimoramento de programas (Ex:fcgistarter)
+- Documentação (Ex:Mod_rewrite)
+- Alterações do desenvolvedor de módulos (Ex:Check Configuration Hook Adicionado
+)
+
+**** NGINX ****
+
+2017-08-08	
+nginx-1.13.4 mainline version has been released, featuring the mirror module.
+
+2017-07-11	
+nginx-1.12.1 stable and nginx-1.13.3 mainline versions have been released with a fix for the integer overflow in the range filter vulnerability (CVE-2017-7529).
+
+
+****WordPress******
+
+4.8.1 - Esta versão contém 29 reparos de manutenção e aprimoramentos, o principal entre eles são correções para o widget rich Text e a introdução do widget HTML personalizado. Para obter uma lista completa de alterações, consulte as  notas de versão , os  bilhetes fechados e a  lista de alterações .
+4.8 - A versão 4.8 do WordPress, chamada "Evans", em homenagem ao pianista e compositor de jazz William John "Bill" Evans, está disponível para download ou atualização em seu painel do WordPress. Novos recursos em 4.8 adicionam mais maneiras para você se expressar e representar sua marca.
